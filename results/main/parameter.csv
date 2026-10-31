@@ -1,7 +1,0 @@
-track,model,params,CV_R2
-Eksplanatori (sosial-ekonomi),ElasticNet,"{""alpha"": 1.2288477547132899, ""l1_ratio"": 0.054424203168174756}",-0.0696913092361475
-Eksplanatori (sosial-ekonomi),RandomForest,"{""n_estimators"": 400, ""max_depth"": 10, ""min_samples_leaf"": 1, ""max_features"": ""sqrt""}",-0.060443081949911236
-Eksplanatori (sosial-ekonomi),CatBoost,"{""iterations"": 300, ""depth"": 3, ""learning_rate"": 0.017554275148930945, ""l2_leaf_reg"": 2.8561216885612923}",-0.024339055503647046
-Prediktif (sosial-ekonomi + lag 1 tahun),ElasticNet,"{""alpha"": 0.9839922918974067, ""l1_ratio"": 0.06433135673794738}",0.16327801911227355
-Prediktif (sosial-ekonomi + lag 1 tahun),RandomForest,"{""n_estimators"": 300, ""max_depth"": 11, ""min_samples_leaf"": 6, ""max_features"": 0.5}",0.03649931133725544
-Prediktif (sosial-ekonomi + lag 1 tahun),CatBoost,"{""iterations"": 400, ""depth"": 2, ""learning_rate"": 0.020251587255697333, ""l2_leaf_reg"": 5.491597618058352}",0.1430418065263896
