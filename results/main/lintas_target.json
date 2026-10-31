@@ -1,0 +1,32 @@
+{
+ "RF multi-output": {
+  "spearman_global": 0.9051383399209486,
+  "jaccard_top3": 0.6705882352941177,
+  "identik_top3": 14,
+  "sign_agreement": 0.9836065573770492,
+  "n_pairs": 366,
+  "fitur_beda_arah": {
+   "IPG": 3,
+   "pt_density": 1,
+   "edu_index": 1,
+   "RLS_gap": 1
+  }
+ },
+ "RF single-target (2 model terpisah)": {
+  "spearman_global": 0.758893280632411,
+  "jaccard_top3": 0.4647058823529412,
+  "identik_top3": 4,
+  "sign_agreement": 0.9571045576407506,
+  "n_pairs": 373,
+  "fitur_beda_arah": {
+   "IPG": 4,
+   "pt_per_1000": 3,
+   "pt_density": 3,
+   "RLS_gap": 2,
+   "log_populasi": 1,
+   "school_density": 1,
+   "guru_per_sekolah": 1,
+   "edu_index": 1
+  }
+ }
+}

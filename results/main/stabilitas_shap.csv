@@ -1,0 +1,11 @@
+seed,target,spearman,top5_overlap
+1,rate_seksual,0.9822134387351777,1.0
+1,rate_non_seksual,0.9723320158102767,1.0
+2,rate_seksual,0.9703557312252965,1.0
+2,rate_non_seksual,0.9762845849802372,1.0
+3,rate_seksual,0.9654150197628459,1.0
+3,rate_non_seksual,0.9762845849802372,1.0
+4,rate_seksual,0.950592885375494,0.8
+4,rate_non_seksual,0.9841897233201581,1.0
+5,rate_seksual,0.9575098814229249,0.8
+5,rate_non_seksual,0.9525691699604744,1.0
