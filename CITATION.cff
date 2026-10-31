@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Multi-target explainable AI for province-level gender-based violence in Indonesia"
+authors:
+  - family-names: Ghayatrie
+    given-names: Nadzla Andrita Intan
+    affiliation: "Computer Science Department, School of Computer Science, Bina Nusantara University, West Jakarta, DKI Jakarta, Indonesia"
+  - family-names: Thaddeus
+    given-names: Ezell
+    affiliation: "Computer Science Department, School of Computer Science, Bina Nusantara University, West Jakarta, DKI Jakarta, Indonesia"
+  - family-names: Budiharto
+    given-names: Theresia Angelica Ivory
+    affiliation: "Computer Science Department, School of Computer Science, Bina Nusantara University, West Jakarta, DKI Jakarta, Indonesia"
+  - family-names: Sofian
+    given-names: Ahmad
+    affiliation: "Department of Business Law, Faculty of Humanities, Bina Nusantara University, West Jakarta, DKI Jakarta, Indonesia"
+license: MIT
+repository-code: "https://github.com/nadzlaandrita/mt-xai-gbv-indonesia"
+# after publication, add:
+# preferred-citation:
+#   type: article
+#   journal: "PeerJ Computer Science"
+#   doi: "10.7717/peerj-cs.XXXX"
